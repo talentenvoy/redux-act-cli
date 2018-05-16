@@ -1,0 +1,15 @@
+{
+  "name": "react-redux-act-cli",
+  "version": "1.0.0",
+  "description": "A potential cli that will automate the process of writing actions, reducers and sagas in your react projects that are consuming redux and redux-act",
+  "main": "index.js",
+  "repository": "https://github.com/supersudh/react-redux-act-cli.git",
+  "author": "Sudharsan RaviKumar <supersudh@gmail.com>",
+  "license": "GNU",
+  "dependencies": {
+    "fs-extra": "^6.0.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
