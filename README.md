@@ -2,8 +2,8 @@
 A potential cli that will automate the process of writing actions, reducers and sagas in your react projects that are consuming redux and redux-act
 
 1. yarn (or) npm i
-2. const model = <YOUR_MODEL_NAME>; // set your model name here
-3. const plural = <BOOLEAN>; // specify if the model is singular or plural
+2. const model = 'product'; // set your model name here
+3. const plural = true; // specify if the model is singular or plural
 4. yarn start (or) npm start
 
 # version 1.0.1
