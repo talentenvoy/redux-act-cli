@@ -3,7 +3,7 @@ A potential cli that will automate the process of writing actions, reducers and 
 
 1. yarn (or) npm i
 2. const model = <YOUR_MODEL_NAME>; // set your model name here
-3. const plural = <Boolean>; // specify if the model is singular or plural
+3. const plural = <BOOLEAN>; // specify if the model is singular or plural
 4. yarn start (or) npm start
 
 # version 1.0.1
